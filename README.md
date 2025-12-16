@@ -1,2 +1,3 @@
-# .github
-research on spatial science and urban systems at UCI
+#  Spatial Science and Urban Systems
+
+Coordinating research for the SSUS lab led by @knaaptime at UC Irvine
