@@ -6,15 +6,25 @@
 
 # Spatial Science and Urban Systems
 
-> The structure of cities, measured.
+> Open spatial science for public decisions.
 >
 > Urban spatial structure, spillovers, and neighborhood effects
 
-SSUS is the research lab of [Elijah Knaap](https://github.com/knaaptime) at
-the University of California, Irvine. We measure how cities are organized,
-how influence crosses boundaries, and how place shapes outcomes. Our
-methods come from spatial science: spatial econometrics, spatial
-statistics, and open-source software for spatial data analysis.
+SSUS is the research lab of [Elijah Knaap](https://github.com/knaaptime) in
+the Department of Urban Planning and Public Policy at the University of
+California, Irvine. We build open-source methods, models, and software for
+understanding sociospatial structure: how cities are organized, how influence
+crosses boundaries, and how place shapes outcomes.
+
+## The work
+
+Our questions come from public decisions. Our work has analyzed a
+fair-housing remedy, a regional plan, and the siting of harm-reduction
+services, and in each the method mattered because the decision did: a model
+that misreads spatial structure sends vouchers, investment, or clinics to the
+wrong places. The tools come from spatial science, chiefly spatial
+econometrics and spatial statistics, and we release them as software so
+others can check the analysis and use it on their own decisions.
 
 ## What lives here
 
